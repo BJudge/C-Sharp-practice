@@ -1,0 +1,15 @@
+/Users/bartjudge/Documents/C-sharp/bin/Debug/net6.0/C-sharp
+/Users/bartjudge/Documents/C-sharp/bin/Debug/net6.0/C-sharp.deps.json
+/Users/bartjudge/Documents/C-sharp/bin/Debug/net6.0/C-sharp.runtimeconfig.json
+/Users/bartjudge/Documents/C-sharp/bin/Debug/net6.0/C-sharp.dll
+/Users/bartjudge/Documents/C-sharp/bin/Debug/net6.0/C-sharp.pdb
+/Users/bartjudge/Documents/C-sharp/obj/Debug/net6.0/C-sharp.csproj.AssemblyReference.cache
+/Users/bartjudge/Documents/C-sharp/obj/Debug/net6.0/C-sharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bartjudge/Documents/C-sharp/obj/Debug/net6.0/C-sharp.AssemblyInfoInputs.cache
+/Users/bartjudge/Documents/C-sharp/obj/Debug/net6.0/C-sharp.AssemblyInfo.cs
+/Users/bartjudge/Documents/C-sharp/obj/Debug/net6.0/C-sharp.csproj.CoreCompileInputs.cache
+/Users/bartjudge/Documents/C-sharp/obj/Debug/net6.0/C-sharp.dll
+/Users/bartjudge/Documents/C-sharp/obj/Debug/net6.0/refint/C-sharp.dll
+/Users/bartjudge/Documents/C-sharp/obj/Debug/net6.0/C-sharp.pdb
+/Users/bartjudge/Documents/C-sharp/obj/Debug/net6.0/C-sharp.genruntimeconfig.cache
+/Users/bartjudge/Documents/C-sharp/obj/Debug/net6.0/ref/C-sharp.dll
